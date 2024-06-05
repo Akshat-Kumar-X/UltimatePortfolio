@@ -7,11 +7,11 @@ const App = () => {
   return (
     <BrowserRouter>
       <div className="relative z-0 bg-primary">
-        <div className="bg-hero-pattern bg-cover bg-no-repeat bg-center">
+        <div className="bg-hero-pattern bg-cover bg-no-repeat bg-center overflow-hidden">
           <Navbar/>
           <div className="w-full md:flex justify-between items-center max-w-7xl mx-auto">
             <Hero />
-            <div className="md:block hidden me-11">
+            <div className="md:block hidden me-11 ">
               <Spline scene="https://prod.spline.design/BVZyuOcOPcnAPAP1/scene.splinecode"/>
             </div>
           </div>
