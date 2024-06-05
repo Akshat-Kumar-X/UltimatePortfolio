@@ -31,7 +31,8 @@ import {
     grow,
     school,
     vit,
-    iquest
+    iquest,
+    finance
   } from "../assets";
   
   export const navLinks = [
@@ -305,12 +306,12 @@ import {
       url: "https://sumz-openai-summerizer.netlify.app/"
     },
     {
-      name: "Grow With Data",
+      name: "Finance Market",
       description:
         "Implemented cutting-edge design techniques to deliver a seamless browsing experience with cross-browser compatibility Engineered a visually stunning and responsive user interface,",
       tags: [
         {
-          name: "React",
+          name: "Next",
           color: "blue-text-gradient",
         },
         {
@@ -322,9 +323,9 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: grow,
+      image: finance,
       source_code_link: "https://github.com/",
-      url: "https://grow-with-data.netlify.app/"
+      url: "https://akshat-batch-systems.vercel.app/"
     },
   ];
   

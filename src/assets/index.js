@@ -38,6 +38,7 @@ import grow from "./grow.png";
 import school from "./company/school.png";
 import vit from "./company/vit.png";
 import iquest from "./company/iquest.png";
+import finance from "./finance.png"
 
 export {
   logo,
@@ -76,5 +77,6 @@ export {
   grow,
   school,
   vit,
-  iquest
+  iquest,
+  finance
 };
